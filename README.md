@@ -36,7 +36,9 @@ Let's generate a button whose value is defined by user input. (Remember that Col
 Simple enough, right? Well, no. We forgot something. Since the value of `rc.userButtonValue` is from user input, we need to encode it against [Cross-Site Scripting (XSS) attacks](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)) as we output its value.
 
 ```html
-<button name="searchView" id="searchView" type="button">#encodeForHTML(rc.userButtonValue)#</button>
+<button name="searchView" id="searchView" type="button">
+  #encodeForHTML(rc.userButtonValue)#
+</button>
 ```
 
 Now, it's part of your company's Coding Standards to XSS encode any user submitted data when it is output (isn't it?). Every developer needs to add the proper, contextual encoding functions regardless of their deadline. That's not a problem, right?
