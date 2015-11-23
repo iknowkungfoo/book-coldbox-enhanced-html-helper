@@ -19,6 +19,6 @@
 	* Demarcating edits
 	* Table content
 	* Forms
-		* [<select>](html_entities/html_public_select.md)
+		* [<select>](html_entities/html_select.md)
 	* Interactive elements
 	* Web Components
