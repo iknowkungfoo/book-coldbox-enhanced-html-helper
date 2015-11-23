@@ -7,8 +7,9 @@
    * [Class](global_attr/class.md)
    * [Label and Content Wrappers](global_attr/label_and_content_wrappers.md)
    * [Data Attributes](global_attr/data_attributes.md)
-* [HTML Entities](html_entities.md)
+* [HTML Entities](html_elements.md)
 	* Basic
+		* [<doctype>](html_elements/html_docType.md)
 	* Document metadata
 	* Content sectioning
 	* Text content
