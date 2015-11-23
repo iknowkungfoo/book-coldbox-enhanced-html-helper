@@ -20,6 +20,6 @@
 	* Demarcating edits
 	* Table content
 	* Forms
-		* [<select>](html_entities/html_select.md)
+		* [<select>](html_elements/html_select.md)
 	* Interactive elements
 	* Web Components
