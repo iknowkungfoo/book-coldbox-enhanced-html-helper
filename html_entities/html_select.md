@@ -1,4 +1,4 @@
-# &lt;select>&gt;
+# &lt;select&gt;
 
 Render out a `<select>` tag.
 
