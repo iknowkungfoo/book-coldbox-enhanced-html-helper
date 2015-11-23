@@ -7,4 +7,18 @@
    * [Class](global_attr/class.md)
    * [Label and Content Wrappers](global_attr/label_and_content_wrappers.md)
    * [Data Attributes](global_attr/data_attributes.md)
-
+* [HTML Entities](html_entities.md)
+	* Basic
+	* Document metadata
+	* Content sectioning
+	* Text content
+	* Inline text semantics
+	* Image and multimedia
+	* Embedded content
+	* Scripting
+	* Demarcating edits
+	* Table content
+	* Forms
+		* [<select>](html_entities/html_public_select.md)
+	* Interactive elements
+	* Web Components
