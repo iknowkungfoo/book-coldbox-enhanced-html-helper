@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * About this Book
+* About this Book
 * [Global Attributes](chapter1_global_attr.md)
    * [ID and Name](global_attr/id_and_name.md)
    * [Value](global_attr/value.md)
