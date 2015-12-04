@@ -1,6 +1,10 @@
 # ID and Name
 
-As of HTML 5, the `name` attribute has been deprecated. ColdFusion still requires it for form fields whose values will are to be processed. The `id` attribute must be a unique value across the entire document. By default, there is no need to specify an id attribute, the HTML Helper will set the `id` attribute equal to its `name` attribute.
+The `name` attribute [was deprecated](http://www.w3.org/TR/html5/obsolete.html) with the emergence of HTML 5. ColdFusion still requires it to know which form field values will be available to the server. 
+
+The `id` attribute must be a unique value across the entire document. This is a function of the Document Object Model, by which JavaScript and CSS can identify specific elements.
+
+By default, there is no need to specify an `id` attribute, the HTML Helper will set the `id` attribute equal to its `name` attribute.
 
 |Name   |Type   |Required   |Default |Hint  |
 |-------|-------|-----------|--------|------|
