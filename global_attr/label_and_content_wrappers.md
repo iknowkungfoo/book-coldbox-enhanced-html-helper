@@ -38,8 +38,12 @@ Next, wrap both the `<label>` and `<input>` with table cells.
 #html.textField(name = "firstName", wrapper = "td", label = "First Name", labelWrapper = "td")#
 
 // HTML
-<td><label for="firstName" class="cbhtml">First Name</label></td>
-<td><input class="cbhtml" name="firstName" id="firstName" type="text"/></td>
+<td>
+    <label for="firstName" class="cbhtml">First Name</label>
+</td>
+<td>
+    <input class="cbhtml" name="firstName" id="firstName" type="text"/>
+</td>
 ```
 
 Last, wrap both table cells with a table row using `groupWrapper` and give the `<label>` a class of `required`.
@@ -56,8 +60,12 @@ Last, wrap both table cells with a table row using `groupWrapper` and give the `
 
 // HTML
 <tr>
-    <td><label for="firstName" class="required&#x20;cbhtml">First Name</label></td>
-    <td><input class="cbhtml" name="firstName" id="firstName" type="text"/></td>
+    <td>
+        <label for="firstName" class="required&#x20;cbhtml">First Name</label>
+    </td>
+    <td>
+        <input class="cbhtml" name="firstName" id="firstName" type="text"/>
+    </td>
 </tr>
 ```
 
@@ -79,7 +87,11 @@ Any `wrapper` or `labelWrapper` can have attributes passed to them directly in t
 
 // HTML rendered.
 <tr>
-    <td class="myclass"><label for="firstName" class="required&#x20;cbhtml">First Name</label></td>
-    <td><input class="cbhtml" name="firstName" id="firstName" type="text"/></td>
+    <td class="myclass">
+        <label for="firstName" class="required&#x20;cbhtml">First Name</label>
+    </td>
+    <td>
+        <input class="cbhtml" name="firstName" id="firstName" type="text"/>
+    </td>
 </tr>
 ```
