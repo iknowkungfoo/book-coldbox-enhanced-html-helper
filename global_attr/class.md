@@ -29,7 +29,11 @@ One reason for adding the class of `cbhtml` to HTML Helper elements is to overri
 For example, this defines a default for these three HTML elements with the class of `cbhtml`.
 
 ```css
-input.cbhtml, select.cbhtml, textarea.cbhtml {background: none; padding-right: 0px; background-color: white;}
+input.cbhtml, select.cbhtml, textarea.cbhtml {
+    background: none; 
+    padding-right: 0px; 
+    background-color: white;
+}
 ```
 
 Here is a legacy definition, along with an additional definition for elements that have both the class required and the class `cbhtml` defined.
