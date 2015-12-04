@@ -4,4 +4,4 @@ Basic elements are the backbone of any HTML document. You'll see these elements 
 
 > Source: [Basic Elements @ MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Basic_elements)
 
-* [`<doctype>`](html_elements/html_doctype.md)
+* [`<doctype>`](html_elements/html_docType.md)
