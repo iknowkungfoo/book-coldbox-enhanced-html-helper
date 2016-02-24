@@ -21,7 +21,7 @@
       * [`<article>`]
       * [`<footer>`]
       * [`<header>`]
-      * [`<h1> - <h6>`](html_heading.md)
+      * [`<h1> - <h6>`](html_elements/content_sectioning/html_heading.md)
       * [`<hgroup>`]
       * [`<nav>`]
       * [`<section>`]
@@ -33,12 +33,12 @@
       * [`<figcaption>`]
       * [`<figure>`]
       * [`<hr>`]
-      * [`<li>`](html_li.md)
+      * [`<li>`](html_elements/text_content/html_li.md)
       * [`<main>`]
-      * [`<ol>`](html_ol.md)
+      * [`<ol>`](html_elements/text_content/html_ol.md)
       * [`<p>`]
       * [`<pre>`]
-      * [`<ul>`](html_ul.md)
+      * [`<ul>`](html_elements/text_content/html_ul.md)
    * [Inline text semantics](html_elements/inline_text_semantics/index.md)
    * [Image and multimedia](html_elements/image_multimedia/index.md)
    * [Embedded content](html_elements/embedded_content/index.md)
