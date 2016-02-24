@@ -10,35 +10,35 @@
    * [Data Attributes](global_attr/data_attributes.md)
 * [HTML Entities](html_elements.md)
    * [Basic](html_elements/basic/index.md)
-      * [<doctype>](html_elements/basic/html_docType.md)
+      * [&lt;doctype&gt;](html_elements/basic/html_docType.md)
    * [Document metadata](html_elements/document_metadata/index.md)
-      * [`<base>`]
-      * [`<head>`]
-      * [`<style>`]
-      * [`<title>`]
+      * [&lt;base&gt;]
+      * [&lt;head&gt;]
+      * [&lt;style&gt;]
+      * [&lt;title&gt;]
    * [Content sectioning](html_elements/content_sectioning/index.md)
-      * [`<address>`]
-      * [`<article>`]
-      * [`<footer>`]
-      * [`<header>`]
-      * [`<h1> - <h6>`](html_elements/content_sectioning/html_heading.md)
-      * [`<hgroup>`]
-      * [`<nav>`]
-      * [`<section>`]
+      * [&lt;address&gt;]
+      * [&lt;article&gt;]
+      * [&lt;footer&gt;]
+      * [&lt;header&gt;]
+      * [&lt;h1&gt; - &lt;h6&gt;](html_elements/content_sectioning/html_heading.md)
+      * [&lt;hgroup&gt;]
+      * [&lt;nav&gt;]
+      * [&lt;section&gt;]
    * [Text content](html_elements/text_content/index.md)
-      * [`<dd>`]
-      * [`<div>`]
-      * [`<dl>`]
-      * [`<dt>`]
-      * [`<figcaption>`]
-      * [`<figure>`]
-      * [`<hr>`]
-      * [`<li>`](html_elements/text_content/html_li.md)
-      * [`<main>`]
-      * [`<ol>`](html_elements/text_content/html_ol.md)
-      * [`<p>`]
-      * [`<pre>`]
-      * [`<ul>`](html_elements/text_content/html_ul.md)
+      * [&lt;dd&gt;]
+      * [&lt;div&gt;]
+      * [&lt;dl&gt;]
+      * [&lt;dt&gt;]
+      * [&lt;figcaption&gt;]
+      * [&lt;figure&gt;]
+      * [&lt;hr&gt;]
+      * [&lt;li&gt;](html_elements/text_content/html_li.md)
+      * [&lt;main&gt;]
+      * [&lt;ol&gt;](html_elements/text_content/html_ol.md)
+      * [&lt;p&gt;]
+      * [&lt;pre&gt;]
+      * [&lt;ul&gt;](html_elements/text_content/html_ul.md)
    * [Inline text semantics](html_elements/inline_text_semantics/index.md)
    * [Image and multimedia](html_elements/image_multimedia/index.md)
    * [Embedded content](html_elements/embedded_content/index.md)
