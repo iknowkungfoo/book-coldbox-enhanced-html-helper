@@ -1,4 +1,3 @@
-
 # &lt;docType&gt;
 
 Render a doctype by type name. The doctype specifies which version of (X)HTML that page is using.
