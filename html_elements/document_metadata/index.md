@@ -1,0 +1,10 @@
+# Document Metadata
+
+Metadata contains information about the page. This includes information about styles, scripts and data to help software (search engines, browsers, etc.) use and render the page. Metadata for styles and scripts may be defined in the page or link to another file that has the information.
+
+> Source: [Document Metadata @ MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Document_metadata)
+
+* [`<base>`]
+* [`<head>`]
+* [`<style>`]
+* [`<title>`]
